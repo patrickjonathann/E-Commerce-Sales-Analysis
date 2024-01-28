@@ -1,5 +1,5 @@
 # E-Commerce Transactions
-Here is the final SQL project that I have completed after participating in the Data Analysis: Fullstack Intensive Bootcamp organized by MySkill. The provided dataset originates from one of the e-commerce platforms in Indonesia (not real data). In this final project, I will explain the approach to querying the data and provide insights and solutions obtained from the dataset.
+Here is the final SQL project that I have completed after participating in the Data Analysis: Fullstack Intensive Bootcamp organized by MySkill. The provided dataset originates from one of the e-commerce platforms in Indonesia (not real data). In this final project, I will explain the approach to querying the data and provide insights obtained from the dataset.
 
 ## Dataset
 The data used is sourced from an E-Commerce dataset (not real data). Regarding the dataset explanation, it is as follows:
@@ -36,7 +36,7 @@ Payment_detail:
 
 Table Schema :
 
+![Exercise SQL_pages-to-jpg-0002](https://github.com/patrickjonathann/E-Commerce-Transactions/assets/157958714/e17c1d38-0a01-44c7-97fa-42522f90d09c)
 
-
-
+## Analysis and Insights
 
